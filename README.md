@@ -39,7 +39,7 @@ Data Science Internship at Internshala (Nov 2021 - Dec 2021)
 ### Android Application for Online Voting
 
 ## Achievements
-- Secured 13th rank in the 2023ACM/IEEE TinyML design contest at ICCAD. [Results] (https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html)
+- Secured 13th rank in the 2023ACM/IEEE TinyML design contest at ICCAD. [Results](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html)
 - Secured AIR 2619 in GATE 2022 (CSE)
 - Secured AIR 3933 in GATE 2021 (CSE)
 - Secured 3rd Position in 3D modelling event METADZ, organized by IEEE student branch, ASIET, Kerala
